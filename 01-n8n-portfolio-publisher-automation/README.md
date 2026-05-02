@@ -5,7 +5,7 @@
 This project is an n8n workflow automation built to solve a practical career and portfolio problem.
 ## Workflow Architecture
 
-![Workflow Architecture](updated ppa.png)
+![Workflow Architecture](images/updated-ppa.png)
 ## Current Version
 
 **Version:** v2  
